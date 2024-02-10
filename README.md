@@ -1,6 +1,6 @@
 This is the note for this repository.
 
-Why do we need to use terraform?
+"Why do we need to use IaaC tools?
 
 In the Traditional IT Infrastructure 
 
