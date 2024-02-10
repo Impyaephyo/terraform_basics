@@ -2,8 +2,6 @@
 # Those are the code to create local file in the terraform.
 
 resource "local_file" "folder1" {
-  filename = "/Users/pyaephyo/Documents/1.Continuous Learning/Terraform/terraform_basics/file1.txt"
+  filename = "file_location/file1.txt" #Your computer file path
   content = "Hello World!"
 }
-#This is how to create local file
-#Git test
