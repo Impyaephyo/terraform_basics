@@ -14,3 +14,4 @@ In the Traditional IT Infrastructure
 We want to avoid those facts that's why we use terraform as a IaaC(Infrastructure as a code).
 
 This is the diagram for terraform basic concept.
+![Screen Shot 2024-02-10 at 13 28 38 PM](https://github.com/Impyaephyo/terraform_basics/assets/77662642/1e9d023d-7c52-479c-8e83-7cac46a7cb25)
