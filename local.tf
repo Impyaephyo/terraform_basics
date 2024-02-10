@@ -6,3 +6,4 @@ resource "local_file" "folder1" {
   content = "Hello World!"
 }
 #This is how to create local file
+#Git test
