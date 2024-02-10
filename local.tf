@@ -5,3 +5,4 @@ resource "local_file" "folder1" {
   filename = "/Users/pyaephyo/Documents/1.Continuous Learning/Terraform/terraform_basics/file1.txt"
   content = "Hello World!"
 }
+#This is how to create local file
